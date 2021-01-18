@@ -3,7 +3,8 @@ Git is A Free software.
 Git is easy to learn.
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-test merge
+test merge.
+
 <<<<<<< HEAD
 Creating a new branch is quick and simple.
 =======
